@@ -19,6 +19,7 @@ import hn.uth.a2p23pm01.Models.Personas;
 
 public class ActivityCombo extends AppCompatActivity {
     SQLiteConexion conexion;
+    SQLiteConexion holamuybuenas;
     Spinner combopersonas;
     EditText nombres,apellidos,correo;
 
